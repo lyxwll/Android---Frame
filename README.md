@@ -3,13 +3,13 @@
 
 1、volley
 
-项目地址https://github.com/smanikandan14/Volley-demo
-(1) JSON，图像等的异步下载；
-(2) 网络请求的排序（scheduling）
-(3) 网络请求的优先级处理
-(4) 缓存
-(5) 多级别取消请求
-(6) 和Activity和生命周期的联动（Activity结束时同时取消所有网络请求）
+项目地址https://github.com/smanikandan14/Volley-demo  br
+(1) JSON，图像等的异步下载；br
+(2) 网络请求的排序（scheduling）br
+(3) 网络请求的优先级处理br
+(4) 缓存br
+(5) 多级别取消请求br
+(6) 和Activity和生命周期的联动（Activity结束时同时取消所有网络请求）br
 
 
 2、android-async-http
