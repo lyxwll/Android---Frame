@@ -1,7 +1,8 @@
 # Android---Frame
-一些开源框架
 
-1、volley
+#Android:一些开源框架
+
+**1、volley**
 
 项目地址https://github.com/smanikandan14/Volley-demo     
 (1) JSON，图像等的异步下载；      
@@ -12,7 +13,7 @@
 (6) 和Activity和生命周期的联动（Activity结束时同时取消所有网络请求）    
 
 
-2、android-async-http
+**2、android-async-http**
 
 项目地址：https://github.com/loopj/android-async-http       
 文档介绍：http://loopj.com/android-async-http/              
@@ -25,7 +26,7 @@
 (7) 可将Cookies持久化到SharedPreferences              
 
 
-3、Afinal框架
+**3、Afinal框架**
 
 项目地址：https://github.com/yangfuhai/afinal                 
 主要有四大模块：             
@@ -38,7 +39,7 @@ FinalBitmap的内存管理使用lru算法，没有使用弱引用（android2.3�
 FinalBitmap可以自定义下载器，用来扩展其他协议显示网络图片，比如ftp等。同时可以自定义bitmap显示器，在imageview显示图片的时候播放动画等（默认是渐变动画显示）。
 
 
-4、xUtils框架
+**4、xUtils框架**
 
 项目地址：https://github.com/wyouflf/xUtils          
 主要有四大模块：              
@@ -64,7 +65,7 @@ FinalBitmap可以自定义下载器，用来扩展其他协议显示网络图片
 可配置线程加载线程数量，缓存大小，缓存路径，加载显示动画等…          
 
 
-5、ThinkAndroid
+**5、ThinkAndroid**
 
 项目地址：https://github.com/white-cat/ThinkAndroid         
 主要有以下模块：        
@@ -80,7 +81,7 @@ FinalBitmap可以自定义下载器，用来扩展其他协议显示网络图片
 (10) 网络状态检测模块：当网络状态改变时，对其进行检.   
 
 
-6、LoonAndroid
+**6、LoonAndroid**
 
 项目地址：https://github.com/gdpancheng/LoonAndroid       
 主要有以下模块：            
