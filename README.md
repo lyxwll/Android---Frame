@@ -98,7 +98,7 @@ FinalBitmap可以自定义下载器，用来扩展其他协议显示网络图片
 其中的 volley扩展性非常好，个人比较喜欢的风格。其他如 android-async-http、Afinal 也相当不错。
 
 
-7、AndroidAnnotations
+**7、AndroidAnnotations**
 
 项目地址：AndroidAnnotations首页http://androidannotations.org/              
 
@@ -113,7 +113,7 @@ No Magic
 类似框架：Bufferknifehttp://jakewharton.github.io/butterknife/
 
 
-8、RoboGuice
+**8、RoboGuice**
 
 项目地址：https://github.com/roboguice/roboguice           
 
@@ -125,14 +125,14 @@ RoboGuice 精简了你的应用代码。更少的代码意味着bug也会更少�
 没什么很难的，你所需要做的仅仅是配置RoboGuice。
 
 
-9、Dagger
+**9、Dagger**
 
 项目地址https://github.com/square/dagger               
 
 android的依赖注入框架（DI框架），感觉跟Spring的IOC差不多吧。这个框架它的好处是它没有采用反射技术（Spring是用反射的）,而是用预编译技术，因为基于反射的DI非常地耗用资源（空间，时间）.           
 
 
-10、Fresco　
+**10、Fresco**　
 
 中文文档http://fresco-cn.org/               
 项目地址https://github.com/facebook/fresco              
@@ -147,21 +147,21 @@ Fresco 中设计有一个叫做 Drawees 模块，方便地显示loading图，当
 支持加载Gif图，支持WebP格式            
 
 
-11、ActiveAndroid
+**11、ActiveAndroid**
 
 项目地址：https://github.com/pardom/ActiveAndroid           
 
 ActiveAndroid是一个活跃的记录风格的ORM（对象关系映射）库。ActiveAndroid可以让您保存和检索的SQLite数据库记录而没有写一个SQL语句。每个数据库记录被整齐包裹成一个model类,像保存方法（）和delete（）。            
 
 
-12、Android-Universal-Image-Loader
+**12、Android-Universal-Image-Loader**
 
 项目地址：https://github.com/nostra13/Android-Universal-Image-Loader             
 
 Android-Universal-Image-Loader是一个开源的UI组件程序，该项目的目的是提供一个可重复使用的仪器为异步图像加载，缓存和显示。所以，如果你的程序里需要这个功能的话，那么不妨试试它。因为已经封装好了一些类和方法。我们可以直接拿来用了。而不用重复去写了。其实，写一个这方面的程序还是比较麻烦的，要考虑多线程，缓存，内存溢出等很多方面。但是，你也可以参考这个例子来自己写出更好的程序。              
 
 
-12、KJFrameForAndroid
+**12、KJFrameForAndroid**
 
 项目地址：https://github.com/kymjs/KJFrameForAndroid          
 
@@ -172,7 +172,7 @@ Android-Universal-Image-Loader是一个开源的UI组件程序，该项目的目
 * KJBitmap：加载网络图片只需要一行代码，使用内存+磁盘双缓存，完美适配任何版本系统不会出现OOM。
 
 
-13、CJFrameForAndroid
+**13、CJFrameForAndroid**
 
 项目地址：https://github.com/kymjs/CJFrameForAndroid         
 
@@ -180,7 +180,7 @@ Android-Universal-Image-Loader是一个开源的UI组件程序，该项目的目
 对于插件apk没有任何的编码限制。          
 
 
-14.
+**14.**
 
 
 
