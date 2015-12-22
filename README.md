@@ -180,7 +180,15 @@ Android-Universal-Image-Loader是一个开源的UI组件程序，该项目的目
 对于插件apk没有任何的编码限制。          
 
 
-**14.**
+**14.FastDev4Android**            
+
+项目地址:https://github.com/jiangqqlmj/FastDev4Android              
+
+本项目是Android快速开发框架，采用AndroidStudio进行开发。 预想集成工具包,采用MVP开发模式,EventBus数据分发,沉浸式状态栏,ORM,网络请求(HTTPClint,Volley,OkHttps),数据解析,依赖注入(AndroidAnnotations),xutils,图片异步加载，二维码扫描等等.                    
+
+
+**15.**             
+
 
 
 
