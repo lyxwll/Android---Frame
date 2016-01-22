@@ -187,7 +187,14 @@ Android-Universal-Image-Loader是一个开源的UI组件程序，该项目的目
 本项目是Android快速开发框架，采用AndroidStudio进行开发。 预想集成工具包,采用MVP开发模式,EventBus数据分发,沉浸式状态栏,ORM,网络请求(HTTPClint,Volley,OkHttps),数据解析,依赖注入(AndroidAnnotations),xutils,图片异步加载，二维码扫描等等.                    
 
 
-**15.**             
+**15.Android-DWCorePhoto**
+项目地址:https://github.com/DavidWangTM/DWCorePhoto_Android                
+
+Android - DWCorePhoto 中有(单张,ListView,GridView,混合ListView(类似微信朋友圈))图片点击放大，以及图片浏览功能原型.加入了rebound,nineoldandroids,universalimageloader的封装库的使用。                             
+![image](https://raw.githubusercontent.com/DavidWangTM/DWCorePhoto_Android/master/GridShow.gif),![image](https://raw.githubusercontent.com/DavidWangTM/DWCorePhoto_Android/master/MixShow.gif)                     
+
+
+**16.**
 
 
 
