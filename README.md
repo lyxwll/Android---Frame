@@ -218,7 +218,11 @@ Android - DWCorePhoto 中有(单张,ListView,GridView,混合ListView(类似微�
 17 支持缓存配置，可配置磁盘缓存路径，磁盘缓存最大值，磁盘缓存当前占有大小，内存缓存最大值大小              
 18 支持缓存管理与控制，包括本地请求缓存一系列信息查询以及对缓存的手动操作                       
 
-**17.**
+**17.MagicaSakura 是 Android 多主题框架。~ is an Android multi theme library which supporting both daily colorful theme and night theme. http://app.bilibili.com**    
+https://github.com/Bilibili/MagicaSakura     
+
+
+**18.**
 
 
 
