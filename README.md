@@ -222,7 +222,11 @@ Android - DWCorePhoto 中有(单张,ListView,GridView,混合ListView(类似微�
 https://github.com/Bilibili/MagicaSakura     
 
 
-**18.**
+**18.An useful fragment navigator **      
+https://github.com/lyxwll/FragmentNavigator      
+
+
+**19.**
 
 
 
